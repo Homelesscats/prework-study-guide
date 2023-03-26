@@ -1,2 +1,2 @@
 # prework-study-guide
-Materials 
+Boot Camp Prework Study Guide for Students
